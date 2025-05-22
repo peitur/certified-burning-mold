@@ -1,0 +1,10 @@
+{
+  "env":{},
+  "cbm":{
+  	"providers":{
+		"client1":{
+			"path":"samples/client1"
+		}
+	}
+  }
+}
